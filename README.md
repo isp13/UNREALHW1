@@ -59,3 +59,9 @@ HUD:
   * Время медленного форсирования: 12 - 4,5 (время форсирования непобедимости х1,5)
   * Бонусы за платформу: 0 - 2 (случайным образом)
   * Увеличение сложности по количеству очков: 100/200/400/800/1600
+
+**Литература и источники туториалов**
+* https://docs.unrealengine.com/4.27/en-US/
+* https://www.youtube.com/watch?v=yS-yQfo0lc0&list=PLZlv_N0_O1gbY4FN8pZuEPVC9PzQThNn1&ab_channel=UnrealEngine
+
+
